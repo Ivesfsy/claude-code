@@ -37,7 +37,7 @@ claude
 2. 点击注册按钮创建新账户
 3. 填写必要的注册信息
 
-![注册账户](https://aicloud.mygptmeta.com/wp-content/uploads/2025/07/注册.jpg)
+![注册](https://github.com/user-attachments/assets/8f5636c5-a17e-4fd9-9bb2-b2de1b73899d)
 
 ## 2.2 创建API密钥
 
@@ -46,7 +46,7 @@ claude
 3. 选择"ClaudeCode"作为分组名称
 4. 生成并复制您的API密钥
 
-![创建令牌](https://aicloud.mygptmeta.com/wp-content/uploads/2025/07/创建令牌.jpg)
+![创建令牌](https://github.com/user-attachments/assets/5b775385-12f9-414d-8d82-c60d263b8f24)
 
 ## 2.3 认证选项
 
@@ -117,7 +117,7 @@ Claude Code采用保守的权限策略，默认需要用户确认可能修改系
 ```bash
 claude
 ```
-![Claude进入界面](https://aicloud.mygptmeta.com/wp-content/uploads/2025/07/claude进入.png)
+![claude进入](https://github.com/user-attachments/assets/9673575e-2f7a-4711-a421-2f28d7629f6a)
 
 ### 带初始提示启动
 ```bash
